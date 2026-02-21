@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:7B2FBE,100:9B59B6&height=200&section=header&text=Alejandro%20Suárez&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Systems%20Engineering%20Student%20|%20IoT%20|%20Linux&descSize=16&descAlignY=55&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:7B2FBE,100:9B59B6&height=200&section=header&text=Alejandro%20Suárez&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Systems%20Engineering%20Student%20|%20IoT%20|%20Operating%20Systems&descSize=16&descAlignY=55&descColor=ffffff"/>
 
 <div align="center">
 
