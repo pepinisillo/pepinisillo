@@ -19,7 +19,7 @@ Hiii, I'm **Alejandro**. I love technology and everything that uses it to make p
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**PlantTalk**](https://github.com/pepinisillo/PlantTalk) | IoT talking plant with AI-generated responses, web server, sensors & TTS audio | ESP32, OpenAI API, Google TTS, I2S |
-| **Gesture Controller** | Real-time hand gesture recognition to control OS functions | Python, OpenCV, MediaPipe |
+| [**GestuApp**](https://github.com/pepinisillo/GestuApp) | Real-time hand gesture recognition to control OS functions | Python, OpenCV, MediaPipe |
 | **Orange Pi Voice Assistant** | Alexa-like device: music playback, voice assistant, local AI for Q&A (work in progress) | Orange Pi 5 Ultra |
 | **DIY E-Reader** | Mini e-reader with 4.2" e-ink display (work in progress) | ESP32-S3, E-Ink |
 | [**Objetos Perdidos ITT**](https://github.com/pepinisillo/-objetos-perdidos-itt) | Lost & found web platform with auth and real-time database | HTML/CSS/JS, Firebase, Netlify |
