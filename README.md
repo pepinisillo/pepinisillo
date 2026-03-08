@@ -22,7 +22,7 @@ Hiii, I'm **Alejandro**. I love technology and everything that uses it to make p
 | [**GestuApp**](https://github.com/pepinisillo/GestuApp) | Real-time hand gesture recognition to control OS functions | Python, OpenCV, MediaPipe |
 | [**Objetos Perdidos ITT**](https://github.com/pepinisillo/-objetos-perdidos-itt) | Lost & found web platform with auth and real-time database | HTML/CSS/JS, Firebase, Netlify |
 | [**Juego de LEDs**](https://github.com/pepinisillo/JuegoLEDs) | Reflex game with LEDs, buttons, 7-segment display & sound on Raspberry Pi Pico | MicroPython, Raspberry Pi Pico |
-| **Orange Pi Voice Assistant** | Alexa-like device: music playback, voice assistant, local AI for Q&A (work in progress) | Orange Pi 5 Ultra |
+| [**Orange Pi Voice Assistant**](https://github.com/pepinisillo/OrangePi-VoiceAssistant.git) | Alexa-like device: music playback, voice assistant, local AI for Q&A (work in progress) | Orange Pi 5 Ultra |
 | **DIY E-Reader** | Mini e-reader with 4.2" e-ink display (work in progress) | ESP32-S3, E-Ink |
 | [**Overwatch Mercy Skins**](https://pepinisillo.github.io/overwatch-mercy-skins/) | Web page displaying Mercy character skins with a good design | HTML, CSS, JS |
 | [**Python Guide**](https://github.com/pepinisillo/python_guide) | Educational repository with Python docs and exercises | Python, Markdown |
